@@ -1,6 +1,6 @@
 # FabiChat
 
-**Ein Chat-Client für Streamer und Moderatoren – Twitch, Kick, YouTube und TikTok in einem Fenster.**
+**Ein Chat-Client für Streamer und Moderatoren – Twitch, YouTube und TikTok in einem Fenster.**
 
 Mehrere Kanäle als Tabs, mehrere Plattformen in einem gemeinsamen Chat, 7TV-Emotes und Moderations-Hotkeys, die nicht verloren gehen.
 
@@ -50,7 +50,6 @@ Nach der Installation aktualisiert sich FabiChat **von selbst**. Ist ein Update 
 | | Lesen | Schreiben | Moderieren | 7TV |
 |---|:---:|:---:|:---:|:---:|
 | **Twitch** | ✅ (auch ohne Login) | ✅ | ✅ | ✅ |
-| **Kick** | ✅ | – | – | ✅ |
 | **YouTube** | ✅ (wenn live) | – | – | – |
 | **TikTok** | ✅ (wenn live) | – | – | – |
 
@@ -88,7 +87,7 @@ Für neue Funktionen braucht FabiChat manchmal zusätzliche Twitch-Berechtigunge
 **YouTube oder TikTok zeigt keine Nachrichten.**
 Diese Chats gibt es nur, während der Streamer live ist. Der Punkt am Tab zeigt den Status.
 
-**Kick, YouTube oder TikTok funktioniert plötzlich nicht mehr.**
+**YouTube oder TikTok funktioniert plötzlich nicht mehr.**
 Diese Plattformen haben keine offizielle Chat-Schnittstelle. Ändern sie etwas, kommt ein Update – meist automatisch.
 
 ---
@@ -98,4 +97,4 @@ Diese Plattformen haben keine offizielle Chat-Schnittstelle. Ändern sie etwas, 
 FabiChat ist **keine** Open-Source-Software. Die Nutzung ist kostenlos, alle Rechte bleiben vorbehalten.
 Kopieren, Verändern, Weiterverkaufen oder Veröffentlichen unter anderem Namen ist ohne Erlaubnis nicht gestattet.
 
-FabiChat steht in keiner Verbindung zu Twitch, Kick, YouTube, TikTok oder 7TV.
+FabiChat steht in keiner Verbindung zu Twitch, YouTube, TikTok oder 7TV.
